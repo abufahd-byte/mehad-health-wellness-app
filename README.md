@@ -52,9 +52,22 @@ Suggested technologies:
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![MEHAD App UI](screenshots/mehad-home.png)
+### Home Screen
+![Home Screen](screenshots/mehad-home.jpg)
+
+### Alerts Screen
+![Alerts Screen](screenshots/mehad-alerts.jpg)
+
+### Reports Screen
+![Reports Screen](screenshots/mehad-reports.jpg)
+
+### History Screen
+![History Screen](screenshots/mehad-history.jpg)
+
+### Settings Screen
+![Settings Screen](screenshots/mehad-settings.jpg)
 
 ---
 
