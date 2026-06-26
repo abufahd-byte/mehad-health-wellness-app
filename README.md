@@ -2,13 +2,13 @@
 
 MEHAD is a mobile health and wellness companion app concept designed to help users monitor seizure risk, track health indicators through smartwatch data, and access emergency support quickly.
 
-The app interface focuses on a clean, soft, and user-friendly mobile experience with real-time health monitoring, AI prediction, and daily health summaries.
+The app interface focuses on a clean, soft, and user-friendly mobile experience with real-time health monitoring, AI prediction, daily health summaries, alerts, reports, history, and settings.
 
 ---
 
 ## 📱 App Overview
 
-MEHAD provides users with a simple dashboard to track their current seizure risk, smartwatch connection status, emergency access, AI prediction, heart rate, sleep duration, reports, history, and settings.
+MEHAD provides users with a simple dashboard to track their current seizure risk, smartwatch connection status, emergency access, AI prediction, heart rate, sleep duration, reports, history, and app settings.
 
 The design uses a soft pink visual identity, rounded cards, clear typography, and accessible navigation to create a calm and supportive health experience.
 
@@ -24,9 +24,10 @@ The design uses a soft pink visual identity, rounded cards, clear typography, an
 - Daily health summary
 - Heart rate tracking
 - Sleep duration tracking
-- Reports section
-- History section
-- Settings section
+- Alert screen
+- Reports screen
+- History screen
+- Settings screen
 - Modern mobile UI design
 - Soft health-focused visual style
 
@@ -55,26 +56,26 @@ Suggested technologies:
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshot/mehad-home.jpg)
+![Home Screen](Screenshot/mehad-home.jpg)
 
 ### Alerts Screen
-![Alerts Screen](screenshot/mehad-alerts.jpg)
+![Alerts Screen](Screenshot/mehad-alerts.jpg)
 
 ### Reports Screen
-![Reports Screen](screenshot/mehad-reports.jpg)
+![Reports Screen](Screenshot/mehad-reports.jpg)
 
 ### History Screen
-![History Screen](screenshot/mehad-history.jpg)
+![History Screen](Screenshot/mehad-history.jpg)
 
 ### Settings Screen
-![Settings Screen](screenshot/mehad-settings.jpg)
+![Settings Screen](Screenshot/mehad-settings.jpg)
 
 ---
 
 ## 📌 Main Screens
 
 ### Home
-Displays the current seizure risk, smartwatch status, emergency button, AI prediction, and daily summary.
+Displays the current seizure risk, smartwatch status, emergency button, AI prediction, and daily health summary.
 
 ### Alerts
 Shows health alerts and emergency-related notifications.
