@@ -55,19 +55,19 @@ Suggested technologies:
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/mehad-home.jpg)
+![Home Screen](screenshot/mehad-home.jpg)
 
 ### Alerts Screen
-![Alerts Screen](screenshots/mehad-alerts.jpg)
+![Alerts Screen](screenshot/mehad-alerts.jpg)
 
 ### Reports Screen
-![Reports Screen](screenshots/mehad-reports.jpg)
+![Reports Screen](screenshot/mehad-reports.jpg)
 
 ### History Screen
-![History Screen](screenshots/mehad-history.jpg)
+![History Screen](screenshot/mehad-history.jpg)
 
 ### Settings Screen
-![Settings Screen](screenshots/mehad-settings.jpg)
+![Settings Screen](screenshot/mehad-settings.jpg)
 
 ---
 
